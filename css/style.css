@@ -1,0 +1,29 @@
+#textHistory {
+    overflow: auto;
+    height: 350px;
+    width: 750px;
+    border: darkgray 4px solid;
+    align-content: flex-start;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: beige;
+}
+
+#message {
+    margin-top: 10px;
+}
+
+#login {
+    align: center;
+}
+
+body {
+    background-color: slategray;
+}
+
+.loginInput{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

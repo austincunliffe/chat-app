@@ -1,0 +1,16 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Chat Server",
+  "main": "app/chatserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/chatserver.js"
+  },
+  "author": "Austin Cunliffe",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.24",
+    "websocket": "^1.0.30"
+  }
+}
